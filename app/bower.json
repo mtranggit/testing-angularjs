@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "authors": [
+    "Michael Trang <michael.trang@hotmail.com>"
+  ],
+  "description": "Unit Testing with AngularJS",
+  "main": "",
+  "keywords": [
+    "unit",
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-mocks": "^1.5.7"
+  }
+}

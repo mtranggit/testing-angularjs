@@ -1,0 +1,818 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"angular-resource.min.js"
+			],
+			[
+				"angu",
+				"angular-resource/"
+			],
+			[
+				"encodeU",
+				"encodeURIComponent(URI)\tWindow"
+			],
+			[
+				"bgrco",
+				"background-color"
+			],
+			[
+				"bower",
+				"bower_components/"
+			],
+			[
+				"C",
+				"CONFIG\tconst"
+			],
+			[
+				"Array",
+				"description-Array"
+			],
+			[
+				"templ",
+				"templateUrl\tproperty"
+			],
+			[
+				"main",
+				"main.ts"
+			],
+			[
+				"hero",
+				"hero-form.component.ts"
+			],
+			[
+				"ng2",
+				"ng2pipe\tAngular 2 Pipe"
+			],
+			[
+				"ser",
+				"search/"
+			],
+			[
+				"todo-st",
+				"todo-status-selector.ts"
+			],
+			[
+				"tod",
+				"todo-input.ts"
+			],
+			[
+				"todo",
+				"todo-model.ts"
+			],
+			[
+				"tdo",
+				"todo-service.ts"
+			],
+			[
+				"Tod",
+				"TodoService\talias"
+			],
+			[
+				"to",
+				"todo-service.ts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 23,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 978,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/bower.json",
+			"settings":
+			{
+				"buffer_size": 431,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/test/karma.conf.js",
+			"settings":
+			{
+				"buffer_size": 1838,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/test/unit/testingAngularUnit.spec.js",
+			"settings":
+			{
+				"buffer_size": 1624,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/app.js",
+			"settings":
+			{
+				"buffer_size": 430,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 456,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 225.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"markdonw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"scopeh",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Work/Tutorials/testing-angularjs",
+		"/D/Work/Tutorials/testing-angularjs/app",
+		"/D/Work/Tutorials/testing-angularjs/app/bower_components",
+		"/D/Work/Tutorials/testing-angularjs/app/bower_components/angular-mocks",
+		"/D/Work/Tutorials/testing-angularjs/app/js",
+		"/D/Work/Tutorials/testing-angularjs/app/js/test",
+		"/D/Work/Tutorials/testing-angularjs/app/js/test/unit"
+	],
+	"file_history":
+	[
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/styles/styles.css",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/components/App.js",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/components/course/CourseForm.js",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/components/course/ManageCoursePage.js",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/selectors/selectors.js",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/components/common/SelectInput.js",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/components/common/TextInput.js",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/components/course/CoursesPage.js",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/components/course/CourseListRow.js",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/components/course/CourseList.js",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/actions/courseActions.js",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/index.js",
+		"/D/Downloads/Video/Pluralsight - Building Applications with React and Redux in ES6 - May 2016/react-redux-react-router-es6/src/routes.js",
+		"/D/Work/Tutorials/ng2-qs-rc1/app/post.service.ts",
+		"/C/Users/MichaelT/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Work/Tutorials/ng2-qs-rc1/ng2-qs-rc1.sublime-project",
+		"/C/Users/MichaelT/OneDrive/Backup/Sublime_Michael_Trang.txt",
+		"/D/Downloads/uTorrent/Complete/Udemy - Angular 2 with TypeScript for Beginners - The Pragmatic Guide/08 Introduction to Reactive Extensions/80.1_-_SeedForObservables/Demo/index.html",
+		"/D/Work/SublimeProjects/NgMockTuts/movie-app/spec/movie-app/seach.controller.spec.js",
+		"/D/Work/SublimeProjects/NgMockTuts/movie-app/src/movie-app/search.controller.js",
+		"/D/Work/SublimeProjects/NgMockTuts/movie-app/src/movie-core/service.js",
+		"/D/Work/SublimeProjects/NgMockTuts/movie-app/spec/movie-core/service.spec.js",
+		"/D/Work/SublimeProjects/NgMockTuts/movie-app/karma.conf.js",
+		"/D/Work/SublimeProjects/NgMockTuts/movie-app/SpecRunner.html",
+		"/D/Work/SublimeProjects/NgMockTuts/movie-app/spec/omdb/service.spec.js",
+		"/D/Work/SublimeProjects/NgMockTuts/movie-app/src/omdb/service.js",
+		"/D/Work/SublimeProjects/NgMockTuts/movie-app/.gitignore",
+		"/D/Work/SublimeProjects/NgMockTuts/movie-app/bower.json",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/app/js/app.js",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/test/simpleService.js",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/test/simpleService.mocha.js",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/test/array.mocha.js",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/test/employeesController.mocha.js",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/readme.md",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/index.html",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/app/site.scss",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/build/site.css",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/data.js",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/bower.json",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/package.json",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/Gruntfile.js",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/.gitignore",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/app/js/services/employeesFactory.js",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/app/js/controllers/employeesController.js",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/app/js/services/employeesService.js",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/app/js/controllers/staffsController.js",
+		"/D/Work/SublimeProjects/amp-fed-test-mtrang/test/.test",
+		"/C/Users/MichaelT/.ssh/config",
+		"/C/Users/MichaelT/.bashrc",
+		"/C/Users/MichaelT/~/.bash_profile",
+		"/C/Users/MichaelT/~/.bashrc",
+		"/D/Work/SublimeProjects/angular2-io/app/basic-di/hero.service.ts",
+		"/D/Work/SublimeProjects/angular2-io/app/app.ts",
+		"/D/Work/SublimeProjects/angular2-io/app/basic-di/heroes.component.ts",
+		"/D/Work/SublimeProjects/angular2-io/app/basic-di/hero-list.component.ts",
+		"/D/Work/SublimeProjects/angular2-io/app/basic-di/logger.service.ts",
+		"/D/Work/SublimeProjects/angular2-io/app/basic-di/app.component.ts",
+		"/D/Work/SublimeProjects/angular2-io/app/basic-di/app-config.ts",
+		"/C/Users/MichaelT/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/my-angular2-snippets/ng2service.sublime-snippet",
+		"/D/Work/SublimeProjects/angular2-io/app/basic-di/mock-heroes.ts",
+		"/D/Work/SublimeProjects/angular2-io/app/basic-di/hero.ts",
+		"/D/Work/SublimeProjects/angular2-io/app/ng-form/app.component.ts",
+		"/D/Work/SublimeProjects/angular2-io/package.json",
+		"/D/Work/SublimeProjects/angular2-io/app/attribute-directives/app.component.html",
+		"/D/Work/SublimeProjects/angular2-io/app/attribute-directives/highlight.directive.ts",
+		"/C/Users/MichaelT/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/Work/SublimeProjects/angular2-io/index.html",
+		"/D/Work/SublimeProjects/angular2-io/app/app.js",
+		"/C/Users/MichaelT/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/MichaelT/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Work/SublimeProjects/angular2-io/app/basic-di/hero.component.ts",
+		"/D/Work/SublimeProjects/angular2-io/app/ng-form/hero-form.component.ts",
+		"/C/Users/MichaelT/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/my-angular2-snippets/ng2form.sublime-snippet",
+		"/C/Users/MichaelT/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/my-angular2-snippets/ng2component.sublime-snippet",
+		"/C/Users/MichaelT/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/my-angular2-snippets/ng2pipe.sublime-snippet",
+		"/D/Work/SublimeProjects/angular2-io/app/attribute-directives/app.component.ts",
+		"/D/Work/SublimeProjects/angular2-io/app/app.js.map",
+		"/C/Users/MichaelT/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Work/SublimeProjects/angular2-io/angular2-io.sublime-project",
+		"/D/Work/SublimeProjects/angular2-forms/tsconfig.json",
+		"/D/Work/SublimeProjects/angular2-forms/typings.json",
+		"/D/Work/SublimeProjects/angular2-forms/package.json",
+		"/D/Work/SublimeProjects/angular2-forms/app/hero.ts",
+		"/D/Work/SublimeProjects/angular2-forms/app/hero-form.component.ts",
+		"/D/Work/SublimeProjects/angular2-forms/app/app.component.ts",
+		"/D/Work/SublimeProjects/angular2-forms/app/main.ts",
+		"/D/Work/SublimeProjects/angular2-forms/index.html",
+		"/D/Work/SublimeProjects/angular2-forms/app/hero-form.component.html",
+		"/D/Work/SublimeProjects/angular2-forms/.editorconfig",
+		"/D/Work/SublimeProjects/angular2-forms/.gitignore",
+		"/D/Work/SublimeProjects/angular2-forms/angular2-form.sublime-project",
+		"/D/Work/SublimeProjects/angular2-forms/app/hero-form.component.js",
+		"/D/Work/SublimeProjects/angular2-forms/forms.css",
+		"/C/Users/MichaelT/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/angular2-snippets/snippets/component.sublime-snippet",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/services/todo-model.ts",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/todo-app.html",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/components/todo/todo-status-selector.html",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/components/search/done-pipe.ts",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/components/todo/todo-status-selector.ts",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/components/todo/todo-input.html",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/components/search/search-pipe.ts",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/components/todo/todo-list.ts",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/components/todo/todo-list.html",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/components/todo/todo-input.ts",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/components/search/search-box.ts",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/todo-app.ts",
+		"/D/Work/SublimeProjects/angular2-todo/src/app/services/todo-service.ts",
+		"/D/Work/SublimeProjects/angular2-todo/node_modules/typings-core/node_modules/typescript/lib/lib.es6.d.ts",
+		"/D/Work/SublimeProjects/angular2-todo/node_modules/typings-core/node_modules/typescript/lib/lib.es7.d.ts",
+		"/D/Work/SublimeProjects/angular2-todo/typings/main.d.ts",
+		"/D/Work/SublimeProjects/angular2-todo/typings/main/ambient/es6-collections/index.d.ts",
+		"/D/Work/SublimeProjects/angular2-todo/package.json",
+		"/D/Work/SublimeProjects/angular2-todo/webpack.config.js",
+		"/D/Work/SublimeProjects/angular2-todo/src/app.ts",
+		"/D/Work/SublimeProjects/angular2-todo/src/index.html",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app/components/todo/status-selector.ts",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app/components/search/status-selector.ts",
+		"/D/Work/VSCodeProjects/angular2-beta/src/index.html",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app.ts",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app/main.ts",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app/components/todo/todo-service.ts",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app/components/todo/todo-model.ts",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app/components/todo/todo-input.ts",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app/components/search/started-pipe.ts",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app/components/todo/todo-list.ts",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app/components/todo/todo-item-renderer.ts",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app/search/search-pipe.ts",
+		"/D/Work/VSCodeProjects/angular2-beta/src/app/todo/todo-item-renderer.ts"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PopularMovies",
+			"omdbApi",
+			"glyphicon",
+			"search",
+			".jpg",
+			"staffsApp",
+			"myApp",
+			");\n",
+			"ObjectConstructor",
+			"Object",
+			"ObjectConstructor",
+			"ToDoModel",
+			"todoModel",
+			"ToDoModel",
+			" \"keys\": [\"tab\"], \n\t  \"command\": \"expand_abbreviation_by_tab\", \n\n\t  // put comma-separated syntax selectors for which \n\t  // you want to expandEmmet abbreviations into \"operand\" key \n\t  // instead of SCOPE_SELECTOR.\n\t  // Examples: source.js, text.html - source\n\t  \"context\": [\n\t    {\n\t      \"operand\": \"meta.group.braces.round.js, text.html\", \n\t      \"operator\": \"equal\", \n\t      \"match_all\": true, \n\t      \"key\": \"selector\"\n\t    }, \n\n\t    // run only if there's no selected text\n\t    {\n\t      \"match_all\": true, \n\t      \"key\": \"selection_empty\"\n\t    },\n\n\t    // don't work if there are active tabstops\n\t    {\n\t      \"operator\": \"equal\", \n\t      \"operand\": false, \n\t      \"match_all\": true, \n\t      \"key\": \"has_next_field\"\n\t    }, \n\n\t    // don't work if completion popup is visible and you\n\t    // want to insert completion with Tab. If you want to\n\t    // expand Emmet with Tab even if popup is visible -- \n\t    // remove this section\n\t    {\n\t      \"operand\": false, \n\t      \"operator\": \"equal\", \n\t      \"match_all\": true, \n\t      \"key\": \"auto_complete_visible\"\n\t    }, \n\t    {\n\t      \"match_all\": true, \n\t      \"key\": \"is_abbreviation\"\n\t    }\n\t  ]\n\t}",
+			"minimap"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Git.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 978,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								978,
+								978
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 50
+							},
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 50.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Bower JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/js/test/karma.conf.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 19
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 115.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/js/test/unit/testingAngularUnit.spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								988,
+								988
+							]
+						],
+						"settings":
+						{
+							"highlight_line": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Jasmine JS/syntax/Jasmine.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 12
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": true,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_insert",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 22
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Theme - Afterglow/Prefs/Langs/npm JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 104.0
+	},
+	"pinned_build_system": "",
+	"project": "TestingAngularJS.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"spec\\omdb\\service.spec.js"
+			],
+			[
+				"todomodel",
+				"src\\app\\services\\todo-model.ts"
+			],
+			[
+				"main.ts",
+				"src\\app\\main.ts"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_last_character_search": ">",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "D:\\Work\\Tutorials\\testing-angularjs\\app"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

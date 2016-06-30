@@ -1,0 +1,22 @@
+{
+  "name": "testing-angularjs",
+  "version": "1.0.0",
+  "description": "Testing AngularJS App Tuts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angularjs",
+    "unit",
+    "test"
+  ],
+  "author": "'Michael",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "karma": "^1.1.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1"
+  }
+}
