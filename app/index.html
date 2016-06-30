@@ -21,11 +21,12 @@
     	</form>
     </section>
 
-    <section ng-show="ctrl.destination.length > 0">
+    <section ng-show="ctrl.destinations.length > 0">
     	<h2>Your Trip</h2>
     	<ul> 
-    		<li ng-repeat="dest in ctrl.destination">
+    		<li ng-repeat="dest in ctrl.destinations">
     			{{dest.city}}, {{dest.country}}
+    			<button ng-click="ctrl.removeDestination($index)">Remove</button>
     		</li>
     	</ul>
     </section>

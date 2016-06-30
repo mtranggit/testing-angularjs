@@ -48,6 +48,30 @@ describe('Testing AngularJS Test Suite', function() {
         	expect(ctrl.destinations[1].country).toBe('Germany');
         });
 
+        it('should remove a destination from the destinations list', function() {
+        	ctrl.destinations = [
+        		{
+        			city: 'Salt Lake City',
+        			country: 'USA'
+        		},
+        		{
+        			city: 'Hanoi',
+        			country: 'Viet Nam'
+        		},
+        		{
+        			city: 'Melbourne',
+        			country: 'Australia'
+        		}
+        	];
+
+        	expect(ctrl.destinations.length).toBe(3);
+        	ctrl.removeDestination(0);
+        	expect(ctrl.destinations.length).toBe(2);
+        	expect(ctrl.destinations[0].city).toBe('Hanoi');
+        	expect(ctrl.destinations[0].country).toBe('Viet Nam');
+
+        });
+
     });
 
 });

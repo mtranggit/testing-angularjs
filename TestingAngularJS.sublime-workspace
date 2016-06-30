@@ -83,8 +83,8 @@
 			"file": ".gitignore",
 			"settings":
 			{
-				"buffer_size": 23,
-				"line_ending": "Windows"
+				"buffer_size": 568,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -203,9 +203,7 @@
 	[
 		"/D/Work/Tutorials/testing-angularjs",
 		"/D/Work/Tutorials/testing-angularjs/app",
-		"/D/Work/Tutorials/testing-angularjs/app/bower_components",
 		"/D/Work/Tutorials/testing-angularjs/app/bower_components/angular-mocks",
-		"/D/Work/Tutorials/testing-angularjs/app/js",
 		"/D/Work/Tutorials/testing-angularjs/app/js/test",
 		"/D/Work/Tutorials/testing-angularjs/app/js/test/unit"
 	],
@@ -390,7 +388,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -399,15 +397,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23,
+						"buffer_size": 568,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23,
-								23
+								568,
+								568
 							]
 						],
 						"settings":
@@ -415,10 +413,10 @@
 							"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Git.tmLanguage",
 							"vintage":
 							{
-								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_glue_until_normal_mode": true,
 								"action": null,
 								"action_count": "",
-								"mode": "mode_normal",
+								"mode": "mode_insert",
 								"motion": null,
 								"motion_count": "",
 								"must_capture_register_name": false,
@@ -433,7 +431,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -480,7 +478,7 @@
 						"translation.y": 50.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -523,7 +521,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -568,7 +566,7 @@
 						"translation.y": 115.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -584,8 +582,8 @@
 						"selection":
 						[
 							[
-								988,
-								988
+								1624,
+								1624
 							]
 						],
 						"settings":
@@ -596,6 +594,8 @@
 							"vintage":
 							{
 								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
 								"action": null,
 								"action_count": "",
 								"mode": "mode_normal",
@@ -606,14 +606,14 @@
 								"partial_sequence": "",
 								"register": "\"",
 								"sequence": "",
-								"xpos": 12
+								"xpos": 33
 							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 475.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -657,7 +657,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -700,7 +700,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 6,
 					"type": "text"
 				}
 			]
@@ -803,7 +803,7 @@
 		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
-			"_cmdline_cd": "D:\\Work\\Tutorials\\testing-angularjs\\app"
+			"_cmdline_cd": "D:\\Work\\Tutorials\\testing-angularjs\\app\\js\\test\\unit"
 		}
 	},
 	"show_minimap": true,

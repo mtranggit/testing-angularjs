@@ -16,6 +16,10 @@ testingAngularApp.controller('testingAngularCtrl', function() {
 			country: vm.newDestination.country
 		});
 	}
+
+	vm.removeDestination = function (index) {
+		vm.destinations.splice(index,1);
+	}
 });
 
 
