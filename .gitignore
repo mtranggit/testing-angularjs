@@ -31,4 +31,4 @@ node_modules
 app/bower_components
 
 #sublime
-*.sublime
+*.sublime*
