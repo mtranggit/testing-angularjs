@@ -171,6 +171,12 @@ describe('Testing AngularJS Test Suite', function() {
 
         });
 
+        afterEach(function() {
+            //cleanup code
+            $httpBackend.verifyNoOutstandingExpectation();
+            $httpBackend.verifyNoOutstandingRequest();
+        });
+        
         it('should update the weather for a specific destination', function() {
             scope.destination = {
                 city: 'Sydney',
